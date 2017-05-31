@@ -1,3 +1,3 @@
-# kata-tictactoe-backend-javascript
+# kata tictactoe (backend) javascript
 A simple backend service for storing events
 
